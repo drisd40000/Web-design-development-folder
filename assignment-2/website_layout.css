@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*header CSS starts*/
+.header{
+    position: relative;
+    width: 90%;
+    height: 90px;
+    background-color: coral;
+    margin-left: 5%;
+}
+.header h1{
+    position: absolute;
+    margin-left: 29%;
+    margin-top: 2%;
+    color: white;
+}
+/*header CSS ends*/
+/*sidebar CSS starts*/
+.sidebar{
+    position: relative;
+    margin-left: 5%;
+    margin-right: 75%;
+    background-color: aliceblue;
+    height: 480px;
+    font-size: 25px;
+}
+.sidebar a{
+    position: absolute;
+    margin-left: 27%;
+    margin-top: 27%;
+}
+/*sidebar CSS ends*/
+/*content CSS starts*/
+.content{
+
+    margin-left: 25%;
+    margin-right: 5%;
+    min-height: 480px;
+    margin-top: -480px;
+    font-family: arial;
+    background-color: azure;
+}
+.content p{
+    font-size: 20px;
+    margin-left: 3%;
+}
+.content h3{
+    font-size: 160%;
+    color: orangered;
+}
+/*content CSS ends*/
+/*chakma CSS starts*/
+#chakma{
+    padding: 30px;
+}
+#chakma p{
+    width: 60%;
+}
+#chakma img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-top: -200px;
+}
+/*chakma CSS ends*/
+/*marma CSS starts*/
+#marma{
+    padding: 30px;
+    
+}
+#marma p{
+    width: 60%;
+}
+#marma img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-top: -200px;
+}
+/*marma CSS ends*/
+/*tripura CSS starts*/
+#tripura{
+    padding: 30px;
+   
+}
+#tripura p{
+    width: 60%;
+}
+#tripura img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-top: -200px;
+}
+/*tripura css ends*/
+/*santals CSS starts*/
+#santals{
+    padding: 30px;
+   
+}
+#santals p{
+    width: 60%;
+}
+#santals img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-top: -200px;
+}
+/*santals CSS ends*/
+/*tanchangya CSS starts*/
+#tanchangya{
+    padding: 30px;
+    
+}
+#tanchangya p{
+    width: 60%;
+}
+#tanchangya img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 65%;
+    margin-top: -225px;
+}
+/*tanchangya CSS ends*/
+/*footer CSS starts*/
+.footer{
+    position: relative;
+    width: 90%;
+    height: 150px;
+    background-color: sandybrown;
+    margin-left: 5%;
+    font-size: 25px;
+    color: white;
+}
+.footer p{
+    padding: 30px;
+}
+.footer p a{
+    text-decoration: none;
+}
+#go_back{
+    position: absolute;
+    color: red;
+    margin-left: 85%;
+    margin-top: -113px; 
+    
+}
+/*footer CSS ends*/
+
+
+
+
